@@ -1,6 +1,6 @@
 # EditTextValidator
 
-![Uploading mygif.gif…]
+![mygif](https://user-images.githubusercontent.com/66155702/143535214-b67ce27c-a794-4fd8-b086-bafdee66e841.gif)
 
 How to
 To get a Git project into your build:
