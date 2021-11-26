@@ -24,4 +24,3 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.Abdulaziz-android:EditTextValidator:1.2'
 	}
-Share this release:
