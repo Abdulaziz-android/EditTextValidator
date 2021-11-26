@@ -1,4 +1,7 @@
 # EditTextValidator
+
+![mygif](https://user-images.githubusercontent.com/66155702/143535214-b67ce27c-a794-4fd8-b086-bafdee66e841.gif)
+
 How to
 To get a Git project into your build:
 
@@ -19,13 +22,5 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.Abdulaziz-android:EditTextValidator:1.0'
+	        implementation 'com.github.Abdulaziz-android:EditTextValidator:1.2'
 	}
-Share this release:
-
-TweetLink
-That's it! The first time you request a project JitPack checks out the code, builds it and serves the build artifacts (jar, aar).
-
-If the project doesn't have any GitHub Releases you can use the short commit hash or 'master-SNAPSHOT' as the version.
-![tenor-google](https://user-images.githubusercontent.com/66155702/143531958-acc81084-1ac4-409a-b452-98f69cbb8678.gif)
-
